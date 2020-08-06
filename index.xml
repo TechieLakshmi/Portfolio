@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Lakshmi S</title>
+    <link>https://techielakshmi.github.io/Lakshmi_Portfolio/</link>
+    <description>Recent content in Portfolio on Lakshmi S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://techielakshmi.github.io/Lakshmi_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: COVID19 Global Forecasting</title>
+      <link>https://techielakshmi.github.io/Lakshmi_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 10 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://techielakshmi.github.io/Lakshmi_Portfolio/post/project-1/</guid>
+      <description>Forecasting confirmed cases and fatalities between March 25 and April 22 by region, the primary goal isn&amp;rsquo;t to produce accurate forecasts. Identify factors that appear to impact the transmission rate of COVID-19. Predicting the cumulative number of confirmed COVID19 cases in various locations across the world, as well as the number of resulting fatalities, for future dates. Goal is to provide better methods for estimates that can assist medical and governmental institutions to prepare and adjust as pandemics unfold.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Website using Wordpress</title>
+      <link>https://techielakshmi.github.io/Lakshmi_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://techielakshmi.github.io/Lakshmi_Portfolio/post/project-2/</guid>
+      <description>Designing a website for a Telecom Solution. Prepare website proposals to present to clients. Provide technical support to clients.  View Website</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://techielakshmi.github.io/Lakshmi_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techielakshmi.github.io/Lakshmi_Portfolio/contact/</guid>
+      <description>E-Mail: s.lakshmi950@gmail.com
+Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/lakshmi-s-570b30121/   GitHub: https://github.com/TechieLakshmi/Data_Science_Projects    </description>
+    </item>
+    
+  </channel>
+</rss>
